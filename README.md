@@ -30,7 +30,7 @@ Full table descriptions: [`data/DATA_DICTIONARY.md`](data/DATA_DICTIONARY.md)
 ## Approach
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Raw sales<br/>sales_weekly] -->|01 Check| B[3 data traps found]
     B -->|02 Clean| C[sales_clean<br/>parent SKU level]
     C -->|03 Combine with inventory| D[demand_weekly<br/>actuals + stockout flags]
