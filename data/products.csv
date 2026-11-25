@@ -1,0 +1,499 @@
+parent_sku,category,product_type,colour,pack_size,supplier_id,carton_qty,moq,launch_date,discontinue_date,replaces_sku,status,sales_class
+Socket_Schuko_Single_Flush_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,40,400,,,,Active,4
+Socket_Schuko_Single_Flush_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_White_5PK,Electric Sockets,Socket,White,5,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Flush_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Anthracite_5PK,Electric Sockets,Socket,Anthracite,5,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,40,400,2024-03-04,,,Active,2
+Socket_Schuko_Single_Flush_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,40,400,2024-04-29,,,Active,1
+Socket_Schuko_Single_Flush_Black_5PK,Electric Sockets,Socket,Black,5,SUP-CN,40,400,2024-03-04,,,Active,2
+Socket_Schuko_Single_Flush_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,40,400,,,,Active,5
+Socket_Schuko_Single_Flush_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Cream_5PK,Electric Sockets,Socket,Cream,5,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Flush_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Flush_Aluminium_5PK,Electric Sockets,Socket,Aluminium,5,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Surface_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_White_5PK,Electric Sockets,Socket,White,5,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Surface_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,40,400,,,,Active,3
+Socket_Schuko_Single_Surface_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_Anthracite_5PK,Electric Sockets,Socket,Anthracite,5,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,40,400,2024-03-11,,,Active,1
+Socket_Schuko_Single_Surface_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,40,400,2024-04-01,,,Active,1
+Socket_Schuko_Single_Surface_Black_5PK,Electric Sockets,Socket,Black,5,SUP-CN,40,400,2024-05-06,,,Active,1
+Socket_Schuko_Single_Surface_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_Cream_5PK,Electric Sockets,Socket,Cream,5,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Surface_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Single_Surface_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,40,400,,,,Active,1
+Socket_Schuko_Single_Surface_Aluminium_5PK,Electric Sockets,Socket,Aluminium,5,SUP-CN,40,400,,,,Active,2
+Socket_Schuko_Double_Flush_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Flush_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Double_Flush_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Double_Flush_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Double_Flush_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,30,300,2024-03-25,,,Active,2
+Socket_Schuko_Double_Flush_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,30,300,2024-03-04,,,Active,2
+Socket_Schuko_Double_Flush_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Flush_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,30,300,,,,Active,3
+Socket_Schuko_Double_Flush_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Double_Flush_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Double_Surface_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,30,300,2024-05-06,,,Active,1
+Socket_Schuko_Double_Surface_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,30,300,2024-04-01,,,Active,2
+Socket_Schuko_Double_Surface_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,30,300,,,,Active,1
+Socket_Schuko_Double_Surface_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,30,300,,,,Active,2
+Socket_Schuko_Triple_Flush_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,,,,Active,1
+Socket_Schuko_Triple_Flush_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,,,,Active,1
+Socket_Schuko_Triple_Flush_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,2024-04-29,,,Active,2
+Socket_Schuko_Triple_Surface_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,,,,Active,1
+Socket_Schuko_Triple_Surface_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,,,,Active,2
+Socket_Schuko_Triple_Surface_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,2024-03-18,,,Active,2
+Socket_USB-A_2.1A_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-A_2.1A_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,20,200,,2025-06-30,,Discontinued,5
+Socket_USB-C_20W_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,2024-11-04,,Socket_USB-A_2.1A_White_1PK,Active,2
+Socket_USB-C_20W_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,20,200,2024-10-21,,Socket_USB-A_2.1A_White_2PK,Active,1
+Socket_USB-C_20W_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,2024-10-07,,Socket_USB-A_2.1A_Anthracite_1PK,Active,2
+Socket_USB-C_20W_Anthracite_2PK,Electric Sockets,Socket,Anthracite,2,SUP-CN,20,200,2024-12-23,,Socket_USB-A_2.1A_Anthracite_2PK,Active,4
+Socket_USB-C_20W_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,2024-11-25,,Socket_USB-A_2.1A_Black_1PK,Active,1
+Socket_USB-C_20W_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,20,200,2024-11-11,,Socket_USB-A_2.1A_Black_2PK,Active,3
+Socket_USB-C_20W_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,20,200,2024-10-21,,Socket_USB-A_2.1A_Aluminium_1PK,Active,2
+Socket_USB-C_20W_Aluminium_2PK,Electric Sockets,Socket,Aluminium,2,SUP-CN,20,200,2024-10-14,,Socket_USB-A_2.1A_Aluminium_2PK,Active,3
+Socket_USB-A+C_Double_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,,,,Active,2
+Socket_USB-A+C_Double_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,,,,Active,2
+Socket_USB-A+C_Double_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,,,,Active,1
+Socket_USB-A+C_Double_Aluminium_1PK,Electric Sockets,Socket,Aluminium,1,SUP-CN,20,200,,,,Active,2
+Socket_USB-C_65W_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,20,200,2025-12-01,,,Active,3
+Socket_USB-C_65W_Anthracite_1PK,Electric Sockets,Socket,Anthracite,1,SUP-CN,20,200,2025-09-15,,,Active,3
+Socket_USB-C_65W_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,2025-11-17,,,Active,2
+Socket_ChildSafe_Single_Flush_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Flush_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Flush_White_5PK,Electric Sockets,Socket,White,5,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Flush_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Flush_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Flush_Cream_5PK,Electric Sockets,Socket,Cream,5,SUP-CN,40,400,,,,Active,2
+Socket_ChildSafe_Single_Surface_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Surface_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Surface_White_5PK,Electric Sockets,Socket,White,5,SUP-CN,40,400,,,,Active,2
+Socket_ChildSafe_Single_Surface_Cream_1PK,Electric Sockets,Socket,Cream,1,SUP-CN,40,400,,,,Active,2
+Socket_ChildSafe_Single_Surface_Cream_2PK,Electric Sockets,Socket,Cream,2,SUP-CN,40,400,,,,Active,1
+Socket_ChildSafe_Single_Surface_Cream_5PK,Electric Sockets,Socket,Cream,5,SUP-CN,40,400,,,,Active,1
+Socket_Outdoor_IP44_Single_Grey_1PK,Electric Sockets,Socket,Grey,1,SUP-CN,24,240,,,,Active,2
+Socket_Outdoor_IP44_Single_Grey_2PK,Electric Sockets,Socket,Grey,2,SUP-CN,24,240,,,,Active,2
+Socket_Outdoor_IP44_Single_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,24,240,,,,Active,1
+Socket_Outdoor_IP44_Single_Black_2PK,Electric Sockets,Socket,Black,2,SUP-CN,24,240,,,,Active,2
+Socket_Outdoor_IP44_Single_White_1PK,Electric Sockets,Socket,White,1,SUP-CN,24,240,,,,Active,1
+Socket_Outdoor_IP44_Single_White_2PK,Electric Sockets,Socket,White,2,SUP-CN,24,240,,,,Active,2
+Socket_Outdoor_IP44_Double_Grey_1PK,Electric Sockets,Socket,Grey,1,SUP-CN,20,200,,,,Active,2
+Socket_Outdoor_IP44_Double_Black_1PK,Electric Sockets,Socket,Black,1,SUP-CN,20,200,,,,Active,2
+Socket_Floor_Stainless_1PK,Electric Sockets,Socket,Stainless,1,SUP-CN,10,100,,,,Active,2
+Socket_Floor_Brass_1PK,Electric Sockets,Socket,Brass,1,SUP-CN,10,100,,2025-09-29,,Discontinued,5
+SmartPlug_WiFi_White_1PK,Electric Sockets,SmartPlug,White,1,SUP-CN,30,300,2025-05-12,,,Active,1
+SmartPlug_WiFi_White_2PK,Electric Sockets,SmartPlug,White,2,SUP-CN,30,300,2025-04-21,,,Active,2
+SmartPlug_WiFi_White_4PK,Electric Sockets,SmartPlug,White,4,SUP-CN,30,300,2025-04-21,,,Active,1
+SmartPlug_WiFi_Black_1PK,Electric Sockets,SmartPlug,Black,1,SUP-CN,30,300,2025-04-07,,,Active,1
+SmartPlug_WiFi_Black_2PK,Electric Sockets,SmartPlug,Black,2,SUP-CN,30,300,2025-05-12,,,Active,2
+SmartPlug_WiFi_Black_4PK,Electric Sockets,SmartPlug,Black,4,SUP-CN,30,300,2025-04-21,,,Active,1
+PowerStrip_3Way_1.5m_White_1PK,Electric Sockets,PowerStrip,White,1,SUP-CN,30,300,,,,Active,1
+PowerStrip_3Way_1.5m_White_2PK,Electric Sockets,PowerStrip,White,2,SUP-CN,30,300,,,,Active,2
+PowerStrip_3Way_1.5m_Black_1PK,Electric Sockets,PowerStrip,Black,1,SUP-CN,30,300,,,,Active,1
+PowerStrip_3Way_1.5m_Black_2PK,Electric Sockets,PowerStrip,Black,2,SUP-CN,30,300,,,,Active,1
+PowerStrip_5Way_Switch_1.5m_White_1PK,Electric Sockets,PowerStrip,White,1,SUP-CN,24,240,,,,Active,1
+PowerStrip_5Way_Switch_1.5m_Black_1PK,Electric Sockets,PowerStrip,Black,1,SUP-CN,24,240,,,,Active,2
+PowerStrip_6Way_Surge_3m_White_1PK,Electric Sockets,PowerStrip,White,1,SUP-CN,20,200,,,,Active,1
+PowerStrip_6Way_Surge_3m_Black_1PK,Electric Sockets,PowerStrip,Black,1,SUP-CN,20,200,,,,Active,3
+PowerStrip_4Way_USB_1.5m_White_1PK,Electric Sockets,PowerStrip,White,1,SUP-CN,20,200,,,,Active,1
+PowerStrip_4Way_USB_1.5m_Black_1PK,Electric Sockets,PowerStrip,Black,1,SUP-CN,20,200,,,,Active,2
+PowerStrip_8Way_Surge_5m_Black_1PK,Electric Sockets,PowerStrip,Black,1,SUP-CN,12,120,,,,Active,3
+Switch_Single_Flush_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,1
+Switch_Single_Flush_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Flush_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,4
+Switch_Single_Flush_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Flush_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-03-18,,,Active,3
+Switch_Single_Flush_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-03-18,,,Active,2
+Switch_Single_Flush_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,3
+Switch_Single_Flush_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Flush_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,5
+Switch_Single_Flush_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Flush_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,1
+Switch_Single_Flush_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_Single_Surface_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,1
+Switch_Single_Surface_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,3
+Switch_Single_Surface_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_Single_Surface_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Surface_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-03-04,,,Active,1
+Switch_Single_Surface_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-04-22,,,Active,2
+Switch_Single_Surface_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,5
+Switch_Single_Surface_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Surface_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,2
+Switch_Single_Surface_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_Single_Surface_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,1
+Switch_Single_Surface_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_Double_Flush_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Flush_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,3
+Switch_Double_Flush_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Flush_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,1
+Switch_Double_Flush_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-03-25,,,Active,1
+Switch_Double_Flush_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-04-22,,,Active,1
+Switch_Double_Flush_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Flush_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Flush_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Flush_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Flush_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,1
+Switch_Double_Flush_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_Double_Surface_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Surface_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Surface_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Surface_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Surface_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-04-01,,,Active,1
+Switch_Double_Surface_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-03-18,,,Active,2
+Switch_Double_Surface_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Surface_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Surface_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,1
+Switch_Double_Surface_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_Double_Surface_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_Double_Surface_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_TwoWay_Flush_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Flush_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Flush_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Flush_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Flush_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-03-18,,,Active,2
+Switch_TwoWay_Flush_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-04-01,,,Active,2
+Switch_TwoWay_Flush_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Flush_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Flush_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Flush_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Flush_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_TwoWay_Flush_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_TwoWay_Surface_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Surface_White_5PK,Switches & Outlets,Switch,White,5,SUP-VN,50,500,,,,Active,3
+Switch_TwoWay_Surface_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Surface_Anthracite_5PK,Switches & Outlets,Switch,Anthracite,5,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Surface_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-03-25,,,Active,2
+Switch_TwoWay_Surface_Black_5PK,Switches & Outlets,Switch,Black,5,SUP-VN,50,500,2024-04-22,,,Active,3
+Switch_TwoWay_Surface_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,3
+Switch_TwoWay_Surface_Cream_5PK,Switches & Outlets,Switch,Cream,5,SUP-VN,50,500,,,,Active,1
+Switch_TwoWay_Surface_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Surface_Aluminium_5PK,Switches & Outlets,Switch,Aluminium,5,SUP-VN,50,500,,,,Active,2
+Switch_TwoWay_Surface_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_TwoWay_Surface_Brass_5PK,Switches & Outlets,Switch,Brass,5,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Switch_Cross_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,1
+Switch_Cross_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Switch_Cross_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,,,,Active,1
+Switch_Cross_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,1
+Switch_PushButton_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,50,500,,,,Active,2
+Switch_PushButton_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,50,500,,,,Active,3
+Switch_PushButton_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,50,500,2024-04-29,,,Active,3
+Switch_PushButton_Cream_1PK,Switches & Outlets,Switch,Cream,1,SUP-VN,50,500,,,,Active,1
+Switch_PushButton_Aluminium_1PK,Switches & Outlets,Switch,Aluminium,1,SUP-VN,50,500,,,,Active,1
+Switch_PushButton_Brass_1PK,Switches & Outlets,Switch,Brass,1,SUP-VN,50,500,,2025-09-29,,Discontinued,5
+Dimmer_Rotary_LED_200W_White_1PK,Switches & Outlets,Dimmer,White,1,SUP-VN,20,200,,,Dimmer_Rotary_Halogen_400W_White_1PK,Active,1
+Dimmer_Rotary_LED_200W_Anthracite_1PK,Switches & Outlets,Dimmer,Anthracite,1,SUP-VN,20,200,,,Dimmer_Rotary_Halogen_400W_Anthracite_1PK,Active,5
+Dimmer_Rotary_LED_200W_Black_1PK,Switches & Outlets,Dimmer,Black,1,SUP-VN,20,200,2024-04-29,,Dimmer_Rotary_Halogen_400W_Black_1PK,Active,1
+Dimmer_Rotary_LED_200W_Cream_1PK,Switches & Outlets,Dimmer,Cream,1,SUP-VN,20,200,,,Dimmer_Rotary_Halogen_400W_Cream_1PK,Active,2
+Dimmer_Rotary_LED_200W_Aluminium_1PK,Switches & Outlets,Dimmer,Aluminium,1,SUP-VN,20,200,,,,Active,2
+Dimmer_Rotary_LED_200W_Brass_1PK,Switches & Outlets,Dimmer,Brass,1,SUP-VN,20,200,,2025-09-29,,Discontinued,5
+Dimmer_Push_LED_Universal_White_1PK,Switches & Outlets,Dimmer,White,1,SUP-VN,20,200,,,,Active,1
+Dimmer_Push_LED_Universal_Anthracite_1PK,Switches & Outlets,Dimmer,Anthracite,1,SUP-VN,20,200,,,,Active,1
+Dimmer_Push_LED_Universal_Black_1PK,Switches & Outlets,Dimmer,Black,1,SUP-VN,20,200,,,,Active,2
+Dimmer_Push_LED_Universal_Cream_1PK,Switches & Outlets,Dimmer,Cream,1,SUP-VN,20,200,,,,Active,1
+Dimmer_Push_LED_Universal_Aluminium_1PK,Switches & Outlets,Dimmer,Aluminium,1,SUP-VN,20,200,,,,Active,3
+Dimmer_Rotary_Halogen_400W_White_1PK,Switches & Outlets,Dimmer,White,1,SUP-VN,20,200,,2024-12-30,,Discontinued,5
+Dimmer_Rotary_Halogen_400W_Anthracite_1PK,Switches & Outlets,Dimmer,Anthracite,1,SUP-VN,20,200,,2024-12-30,,Discontinued,5
+Dimmer_Rotary_Halogen_400W_Black_1PK,Switches & Outlets,Dimmer,Black,1,SUP-VN,20,200,,2024-12-30,,Discontinued,5
+Dimmer_Rotary_Halogen_400W_Cream_1PK,Switches & Outlets,Dimmer,Cream,1,SUP-VN,20,200,,2024-12-30,,Discontinued,5
+SmartSwitch_WiFi_White_1PK,Switches & Outlets,SmartSwitch,White,1,SUP-VN,20,200,2026-03-02,,,Active,1
+SmartSwitch_WiFi_Black_1PK,Switches & Outlets,SmartSwitch,Black,1,SUP-VN,20,200,2026-03-02,,,Active,1
+SmartSwitch_WiFi_Anthracite_1PK,Switches & Outlets,SmartSwitch,Anthracite,1,SUP-VN,20,200,2026-03-02,,,Active,1
+Switch_MotionSensor_White_1PK,Switches & Outlets,Switch,White,1,SUP-VN,20,200,2025-06-02,,,Active,2
+Switch_MotionSensor_Anthracite_1PK,Switches & Outlets,Switch,Anthracite,1,SUP-VN,20,200,2025-06-02,,,Active,2
+Frame_Single_White_1PK,Switches & Outlets,Frame,White,1,SUP-VN,100,1000,,,,Active,5
+Frame_Single_White_5PK,Switches & Outlets,Frame,White,5,SUP-VN,100,1000,,,,Active,1
+Frame_Single_White_10PK,Switches & Outlets,Frame,White,10,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Anthracite_1PK,Switches & Outlets,Frame,Anthracite,1,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Anthracite_5PK,Switches & Outlets,Frame,Anthracite,5,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Anthracite_10PK,Switches & Outlets,Frame,Anthracite,10,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Black_1PK,Switches & Outlets,Frame,Black,1,SUP-VN,100,1000,2024-03-11,,,Active,3
+Frame_Single_Black_5PK,Switches & Outlets,Frame,Black,5,SUP-VN,100,1000,2024-05-06,,,Active,2
+Frame_Single_Black_10PK,Switches & Outlets,Frame,Black,10,SUP-VN,100,1000,2024-04-08,,,Active,1
+Frame_Single_Cream_1PK,Switches & Outlets,Frame,Cream,1,SUP-VN,100,1000,,,,Active,5
+Frame_Single_Cream_5PK,Switches & Outlets,Frame,Cream,5,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Cream_10PK,Switches & Outlets,Frame,Cream,10,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Aluminium_1PK,Switches & Outlets,Frame,Aluminium,1,SUP-VN,100,1000,,,,Active,5
+Frame_Single_Aluminium_5PK,Switches & Outlets,Frame,Aluminium,5,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Aluminium_10PK,Switches & Outlets,Frame,Aluminium,10,SUP-VN,100,1000,,,,Active,1
+Frame_Single_Brass_1PK,Switches & Outlets,Frame,Brass,1,SUP-VN,100,1000,,2025-09-29,,Discontinued,3
+Frame_Single_Brass_5PK,Switches & Outlets,Frame,Brass,5,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Single_Brass_10PK,Switches & Outlets,Frame,Brass,10,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Double_White_1PK,Switches & Outlets,Frame,White,1,SUP-VN,100,1000,,,,Active,3
+Frame_Double_White_5PK,Switches & Outlets,Frame,White,5,SUP-VN,100,1000,,,,Active,1
+Frame_Double_White_10PK,Switches & Outlets,Frame,White,10,SUP-VN,100,1000,,,,Active,2
+Frame_Double_Anthracite_1PK,Switches & Outlets,Frame,Anthracite,1,SUP-VN,100,1000,,,,Active,2
+Frame_Double_Anthracite_5PK,Switches & Outlets,Frame,Anthracite,5,SUP-VN,100,1000,,,,Active,1
+Frame_Double_Anthracite_10PK,Switches & Outlets,Frame,Anthracite,10,SUP-VN,100,1000,,,,Active,2
+Frame_Double_Black_1PK,Switches & Outlets,Frame,Black,1,SUP-VN,100,1000,2024-04-15,,,Active,2
+Frame_Double_Black_5PK,Switches & Outlets,Frame,Black,5,SUP-VN,100,1000,2024-03-11,,,Active,1
+Frame_Double_Black_10PK,Switches & Outlets,Frame,Black,10,SUP-VN,100,1000,2024-04-08,,,Active,3
+Frame_Double_Cream_1PK,Switches & Outlets,Frame,Cream,1,SUP-VN,100,1000,,,,Active,3
+Frame_Double_Cream_5PK,Switches & Outlets,Frame,Cream,5,SUP-VN,100,1000,,,,Active,2
+Frame_Double_Cream_10PK,Switches & Outlets,Frame,Cream,10,SUP-VN,100,1000,,,,Active,1
+Frame_Double_Aluminium_1PK,Switches & Outlets,Frame,Aluminium,1,SUP-VN,100,1000,,,,Active,2
+Frame_Double_Aluminium_5PK,Switches & Outlets,Frame,Aluminium,5,SUP-VN,100,1000,,,,Active,1
+Frame_Double_Aluminium_10PK,Switches & Outlets,Frame,Aluminium,10,SUP-VN,100,1000,,,,Active,3
+Frame_Double_Brass_1PK,Switches & Outlets,Frame,Brass,1,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Double_Brass_5PK,Switches & Outlets,Frame,Brass,5,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Double_Brass_10PK,Switches & Outlets,Frame,Brass,10,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Triple_White_1PK,Switches & Outlets,Frame,White,1,SUP-VN,100,1000,,,,Active,3
+Frame_Triple_Anthracite_1PK,Switches & Outlets,Frame,Anthracite,1,SUP-VN,100,1000,,,,Active,5
+Frame_Triple_Black_1PK,Switches & Outlets,Frame,Black,1,SUP-VN,100,1000,2024-03-25,,,Active,5
+Frame_Triple_Cream_1PK,Switches & Outlets,Frame,Cream,1,SUP-VN,100,1000,,,,Active,2
+Frame_Triple_Aluminium_1PK,Switches & Outlets,Frame,Aluminium,1,SUP-VN,100,1000,,,,Active,5
+Frame_Triple_Brass_1PK,Switches & Outlets,Frame,Brass,1,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Frame_Quad_White_1PK,Switches & Outlets,Frame,White,1,SUP-VN,50,500,,,,Active,2
+Frame_Quad_Anthracite_1PK,Switches & Outlets,Frame,Anthracite,1,SUP-VN,50,500,,,,Active,1
+Frame_Quad_Black_1PK,Switches & Outlets,Frame,Black,1,SUP-VN,50,500,2024-04-29,,,Active,1
+Frame_Quad_Cream_1PK,Switches & Outlets,Frame,Cream,1,SUP-VN,50,500,,,,Active,3
+BlankPlate_White_1PK,Switches & Outlets,BlankPlate,White,1,SUP-VN,100,1000,,,,Active,5
+BlankPlate_White_5PK,Switches & Outlets,BlankPlate,White,5,SUP-VN,100,1000,,,,Active,3
+BlankPlate_Anthracite_1PK,Switches & Outlets,BlankPlate,Anthracite,1,SUP-VN,100,1000,,,,Active,1
+BlankPlate_Anthracite_5PK,Switches & Outlets,BlankPlate,Anthracite,5,SUP-VN,100,1000,,,,Active,5
+BlankPlate_Black_1PK,Switches & Outlets,BlankPlate,Black,1,SUP-VN,100,1000,2024-03-25,,,Active,2
+BlankPlate_Black_5PK,Switches & Outlets,BlankPlate,Black,5,SUP-VN,100,1000,2024-04-15,,,Active,1
+BlankPlate_Cream_1PK,Switches & Outlets,BlankPlate,Cream,1,SUP-VN,100,1000,,,,Active,2
+BlankPlate_Cream_5PK,Switches & Outlets,BlankPlate,Cream,5,SUP-VN,100,1000,,,,Active,1
+BlankPlate_Aluminium_1PK,Switches & Outlets,BlankPlate,Aluminium,1,SUP-VN,100,1000,,,,Active,3
+BlankPlate_Aluminium_5PK,Switches & Outlets,BlankPlate,Aluminium,5,SUP-VN,100,1000,,,,Active,5
+BlankPlate_Brass_1PK,Switches & Outlets,BlankPlate,Brass,1,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+BlankPlate_Brass_5PK,Switches & Outlets,BlankPlate,Brass,5,SUP-VN,100,1000,,2025-09-29,,Discontinued,5
+Outlet_Data_RJ45_Cat6_White_1PK,Switches & Outlets,Outlet,White,1,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Cat6_White_2PK,Switches & Outlets,Outlet,White,2,SUP-VN,30,300,,,,Active,1
+Outlet_Data_RJ45_Cat6_Anthracite_1PK,Switches & Outlets,Outlet,Anthracite,1,SUP-VN,30,300,,,,Active,1
+Outlet_Data_RJ45_Cat6_Anthracite_2PK,Switches & Outlets,Outlet,Anthracite,2,SUP-VN,30,300,,,,Active,1
+Outlet_Data_RJ45_Cat6_Black_1PK,Switches & Outlets,Outlet,Black,1,SUP-VN,30,300,,,,Active,1
+Outlet_Data_RJ45_Cat6_Black_2PK,Switches & Outlets,Outlet,Black,2,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Cat6_Cream_1PK,Switches & Outlets,Outlet,Cream,1,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Cat6_Cream_2PK,Switches & Outlets,Outlet,Cream,2,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Cat6_Aluminium_1PK,Switches & Outlets,Outlet,Aluminium,1,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Cat6_Aluminium_2PK,Switches & Outlets,Outlet,Aluminium,2,SUP-VN,30,300,,,,Active,5
+Outlet_Data_RJ45_Cat6_Brass_1PK,Switches & Outlets,Outlet,Brass,1,SUP-VN,30,300,,2025-09-29,,Discontinued,5
+Outlet_Data_RJ45_Cat6_Brass_2PK,Switches & Outlets,Outlet,Brass,2,SUP-VN,30,300,,2025-09-29,,Discontinued,5
+Outlet_Data_RJ45_Double_White_1PK,Switches & Outlets,Outlet,White,1,SUP-VN,30,300,,,,Active,3
+Outlet_Data_RJ45_Double_Anthracite_1PK,Switches & Outlets,Outlet,Anthracite,1,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Double_Black_1PK,Switches & Outlets,Outlet,Black,1,SUP-VN,30,300,,,,Active,2
+Outlet_Data_RJ45_Double_Cream_1PK,Switches & Outlets,Outlet,Cream,1,SUP-VN,30,300,,,,Active,1
+Outlet_Coax_TV_White_1PK,Switches & Outlets,Outlet,White,1,SUP-VN,30,300,,,,Active,1
+Outlet_Coax_TV_Anthracite_1PK,Switches & Outlets,Outlet,Anthracite,1,SUP-VN,30,300,,,,Active,1
+Outlet_Coax_TV_Black_1PK,Switches & Outlets,Outlet,Black,1,SUP-VN,30,300,,,,Active,1
+Outlet_Coax_TV_Cream_1PK,Switches & Outlets,Outlet,Cream,1,SUP-VN,30,300,,,,Active,1
+Outlet_Coax_TV_Aluminium_1PK,Switches & Outlets,Outlet,Aluminium,1,SUP-VN,30,300,,,,Active,1
+Switch_Outdoor_IP44_Grey_1PK,Switches & Outlets,Switch,Grey,1,SUP-VN,24,240,,,,Active,1
+Switch_Outdoor_IP44_Black_1PK,Switches & Outlets,Switch,Black,1,SUP-VN,24,240,,,,Active,1
+Wire_VD_1.5mm2_Blue_100m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_Brown_100m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_Black_100m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_Grey_100m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_YellowGreen_100m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_Blue_100m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_Brown_100m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_Black_100m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_Grey_100m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_YellowGreen_100m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_4mm2_Blue_100m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_4mm2_Brown_100m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_4mm2_Black_100m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_4mm2_Grey_100m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_4mm2_YellowGreen_100m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_6mm2_Blue_100m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_6mm2_Brown_100m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_6mm2_Black_100m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_6mm2_Grey_100m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_6mm2_YellowGreen_100m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,5
+Wire_VD_10mm2_Blue_100m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_10mm2_Brown_100m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_10mm2_Black_100m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_10mm2_Grey_100m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_10mm2_YellowGreen_100m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_Blue_50m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_Brown_50m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,3
+Wire_VD_1.5mm2_Black_50m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,5
+Wire_VD_1.5mm2_Grey_50m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_1.5mm2_YellowGreen_50m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,3
+Wire_VD_2.5mm2_Blue_50m,Wires & Cables,Wire,Blue,1,SUP-MA,10,40,,,,Active,4
+Wire_VD_2.5mm2_Brown_50m,Wires & Cables,Wire,Brown,1,SUP-MA,10,40,,,,Active,3
+Wire_VD_2.5mm2_Black_50m,Wires & Cables,Wire,Black,1,SUP-MA,10,40,,,,Active,3
+Wire_VD_2.5mm2_Grey_50m,Wires & Cables,Wire,Grey,1,SUP-MA,10,40,,,,Active,3
+Wire_VD_2.5mm2_YellowGreen_50m,Wires & Cables,Wire,YellowGreen,1,SUP-MA,10,40,,,,Active,5
+Cable_YMvK_3x1.5mm2_Grey_50m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_3x1.5mm2_Grey_100m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_3x2.5mm2_Grey_50m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_3x2.5mm2_Grey_100m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_5x2.5mm2_Grey_50m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,5
+Cable_YMvK_5x2.5mm2_Grey_100m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_5x4mm2_Grey_50m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_YMvK_5x4mm2_Grey_100m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_Flex_H05VVF_2x0.75mm2_White_10m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,2
+Cable_Flex_H05VVF_2x0.75mm2_White_25m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,3
+Cable_Flex_H05VVF_2x0.75mm2_White_50m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,3
+Cable_Flex_H05VVF_2x0.75mm2_Black_10m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,1
+Cable_Flex_H05VVF_2x0.75mm2_Black_25m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_2x0.75mm2_Black_50m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,5
+Cable_Flex_H05VVF_3x0.75mm2_White_10m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,3
+Cable_Flex_H05VVF_3x0.75mm2_White_25m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x0.75mm2_White_50m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x0.75mm2_Black_10m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,2
+Cable_Flex_H05VVF_3x0.75mm2_Black_25m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,3
+Cable_Flex_H05VVF_3x0.75mm2_Black_50m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x1.5mm2_White_10m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x1.5mm2_White_25m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x1.5mm2_White_50m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,4
+Cable_Flex_H05VVF_3x1.5mm2_Black_10m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,2
+Cable_Flex_H05VVF_3x1.5mm2_Black_25m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,3
+Cable_Flex_H05VVF_3x1.5mm2_Black_50m,Wires & Cables,Cable,Black,1,SUP-MA,10,40,,,,Active,4
+Cable_Outdoor_H07RNF_3x1.5mm2_Black_25m,Wires & Cables,Cable,Black,1,SUP-MA,5,20,,,,Active,4
+Cable_Outdoor_H07RNF_3x1.5mm2_Black_50m,Wires & Cables,Cable,Black,1,SUP-MA,5,20,,,,Active,4
+Cable_Outdoor_H07RNF_3x2.5mm2_Black_25m,Wires & Cables,Cable,Black,1,SUP-MA,5,20,,,,Active,4
+Cable_Outdoor_H07RNF_3x2.5mm2_Black_50m,Wires & Cables,Cable,Black,1,SUP-MA,5,20,,,,Active,4
+ExtensionReel_4Way_Black_25m,Wires & Cables,ExtensionReel,Black,1,SUP-MA,4,16,,,,Active,4
+ExtensionReel_4Way_Black_50m,Wires & Cables,ExtensionReel,Black,1,SUP-MA,4,16,,,,Active,4
+ExtensionReel_4Way_Red_25m,Wires & Cables,ExtensionReel,Red,1,SUP-MA,4,16,,,,Active,4
+ExtensionReel_4Way_Red_50m,Wires & Cables,ExtensionReel,Red,1,SUP-MA,4,16,,,,Active,4
+ExtensionCable_White_3m,Wires & Cables,ExtensionCable,White,1,SUP-MA,10,40,,,,Active,1
+ExtensionCable_White_5m,Wires & Cables,ExtensionCable,White,1,SUP-MA,10,40,,,,Active,1
+ExtensionCable_White_10m,Wires & Cables,ExtensionCable,White,1,SUP-MA,10,40,,,,Active,2
+ExtensionCable_White_20m,Wires & Cables,ExtensionCable,White,1,SUP-MA,10,40,,,,Active,4
+ExtensionCable_Black_3m,Wires & Cables,ExtensionCable,Black,1,SUP-MA,10,40,,,,Active,1
+ExtensionCable_Black_5m,Wires & Cables,ExtensionCable,Black,1,SUP-MA,10,40,,,,Active,1
+ExtensionCable_Black_10m,Wires & Cables,ExtensionCable,Black,1,SUP-MA,10,40,,,,Active,3
+ExtensionCable_Black_20m,Wires & Cables,ExtensionCable,Black,1,SUP-MA,10,40,,,,Active,4
+ExtensionCable_Grey_3m,Wires & Cables,ExtensionCable,Grey,1,SUP-MA,10,40,,,,Active,5
+ExtensionCable_Grey_5m,Wires & Cables,ExtensionCable,Grey,1,SUP-MA,10,40,,,,Active,1
+ExtensionCable_Grey_10m,Wires & Cables,ExtensionCable,Grey,1,SUP-MA,10,40,,,,Active,4
+ExtensionCable_Grey_20m,Wires & Cables,ExtensionCable,Grey,1,SUP-MA,10,40,,,,Active,4
+Conduit_3m_16mm_Grey_10PK,Wires & Cables,Conduit,Grey,10,SUP-MA,10,40,,,,Active,5
+Conduit_3m_16mm_White_10PK,Wires & Cables,Conduit,White,10,SUP-MA,10,40,,,,Active,3
+Conduit_3m_19mm_Grey_10PK,Wires & Cables,Conduit,Grey,10,SUP-MA,10,40,,,,Active,5
+Conduit_3m_19mm_White_10PK,Wires & Cables,Conduit,White,10,SUP-MA,10,40,,,,Active,5
+Conduit_3m_25mm_Grey_10PK,Wires & Cables,Conduit,Grey,10,SUP-MA,10,40,,,,Active,3
+Conduit_3m_25mm_White_10PK,Wires & Cables,Conduit,White,10,SUP-MA,10,40,,,,Active,5
+CableTies_100mm_Black_100PK,Wires & Cables,CableTies,Black,100,SUP-MA,100,400,,,,Active,5
+CableTies_100mm_White_100PK,Wires & Cables,CableTies,White,100,SUP-MA,100,400,,,,Active,4
+CableTies_200mm_Black_100PK,Wires & Cables,CableTies,Black,100,SUP-MA,100,400,,,,Active,5
+CableTies_200mm_White_100PK,Wires & Cables,CableTies,White,100,SUP-MA,100,400,,,,Active,5
+CableTies_300mm_Black_100PK,Wires & Cables,CableTies,Black,100,SUP-MA,100,400,,,,Active,5
+CableTies_300mm_White_100PK,Wires & Cables,CableTies,White,100,SUP-MA,100,400,,,,Active,5
+Cable_Network_Cat6_UTP_Grey_50m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,5
+Cable_Network_Cat6_UTP_Grey_100m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_Grey_305m,Wires & Cables,Cable,Grey,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_Blue_50m,Wires & Cables,Cable,Blue,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_Blue_100m,Wires & Cables,Cable,Blue,1,SUP-MA,5,20,,,,Active,5
+Cable_Network_Cat6_UTP_Blue_305m,Wires & Cables,Cable,Blue,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_White_50m,Wires & Cables,Cable,White,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_White_100m,Wires & Cables,Cable,White,1,SUP-MA,5,20,,,,Active,4
+Cable_Network_Cat6_UTP_White_305m,Wires & Cables,Cable,White,1,SUP-MA,5,20,,,,Active,4
+PatchCable_Cat6_Grey_1m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Grey_2m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Grey_3m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Grey_5m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Grey_10m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,2
+PatchCable_Cat6_Grey_20m,Wires & Cables,PatchCable,Grey,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Blue_1m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Blue_2m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,5
+PatchCable_Cat6_Blue_3m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,4
+PatchCable_Cat6_Blue_5m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,1
+PatchCable_Cat6_Blue_10m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,2
+PatchCable_Cat6_Blue_20m,Wires & Cables,PatchCable,Blue,1,SUP-MA,50,200,,,,Active,4
+Cable_Coax_White_10m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,5
+Cable_Coax_White_25m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,2
+Cable_Coax_White_100m,Wires & Cables,Cable,White,1,SUP-MA,10,40,,,,Active,5
+CableClips_5mm_White_100PK,Wires & Cables,CableClips,White,100,SUP-MA,50,200,,,,Active,3
+CableClips_7mm_White_100PK,Wires & Cables,CableClips,White,100,SUP-MA,50,200,,,,Active,5
+CableClips_10mm_White_100PK,Wires & Cables,CableClips,White,100,SUP-MA,50,200,,,,Active,5
+MCB_1P+N_B6_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P+N_B10_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P+N_B16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P+N_B20_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P+N_B25_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P+N_B32_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P+N_C10_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P+N_C16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P+N_C20_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,5
+MCB_1P_B6_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P_B10_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P_B16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P_B20_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P_B25_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P_B32_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,2
+MCB_1P_C10_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P_C16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_1P_C20_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,60,600,,,,Active,1
+MCB_3P_B16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,2
+MCB_3P_B20_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,3
+MCB_3P_B25_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,3
+MCB_3P_B32_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,4
+MCB_3P_C16_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,3
+MCB_3P_C32_1PK,Circuit Protection & Distribution,MCB,,1,SUP-CN,20,200,,,,Active,2
+RCD_2P_30mA_TypeA_25A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,3
+RCD_2P_30mA_TypeA_40A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,2
+RCD_2P_30mA_TypeA_63A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,3
+RCD_4P_30mA_TypeA_25A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,4
+RCD_4P_30mA_TypeA_40A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,2
+RCD_4P_30mA_TypeA_63A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,4
+RCD_2P_300mA_TypeA_40A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,2
+RCD_2P_300mA_TypeA_63A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-CN,12,120,,,,Active,2
+RCD_4P_30mA_TypeB_EV-Solar_40A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-VN,6,60,2026-05-04,,,Active,4
+RCD_4P_30mA_TypeB_EV-Solar_63A_1PK,Circuit Protection & Distribution,RCD,,1,SUP-VN,6,60,2026-05-04,,,Active,4
+RCBO_1P+N_30mA_B6_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,3
+RCBO_1P+N_30mA_B10_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,3
+RCBO_1P+N_30mA_B16_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,2
+RCBO_1P+N_30mA_B20_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,3
+RCBO_1P+N_30mA_B25_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,2
+RCBO_1P+N_30mA_C10_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,2
+RCBO_1P+N_30mA_C16_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,2
+RCBO_1P+N_30mA_C20_1PK,Circuit Protection & Distribution,RCBO,,1,SUP-CN,12,120,,,,Active,4
+DistributionBoard_4Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,2
+DistributionBoard_4Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,3
+DistributionBoard_8Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,4
+DistributionBoard_8Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,2
+DistributionBoard_12Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,3
+DistributionBoard_12Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,3
+DistributionBoard_18Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,3
+DistributionBoard_18Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,2
+DistributionBoard_24Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,2
+DistributionBoard_24Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,2
+DistributionBoard_36Module_Surface_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,3
+DistributionBoard_36Module_Flush_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,8,80,,,,Active,5
+DistributionBoard_Outdoor_IP65_8Module_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,6,60,,,,Active,3
+DistributionBoard_Outdoor_IP65_12Module_1PK,Circuit Protection & Distribution,DistributionBoard,,1,SUP-CN,6,60,,,,Active,2
+SurgeProtector_DIN_Type2_1P+N_1PK,Circuit Protection & Distribution,SurgeProtector,,1,SUP-VN,10,100,2024-03-25,,,Active,4
+SurgeProtector_DIN_Type2_3P+N_1PK,Circuit Protection & Distribution,SurgeProtector,,1,SUP-VN,10,100,2024-03-04,,,Active,4
+SurgeProtector_DIN_Type1+2_1P+N_1PK,Circuit Protection & Distribution,SurgeProtector,,1,SUP-VN,10,100,2024-03-04,,,Active,2
+SurgeProtector_DIN_Type1+2_3P+N_1PK,Circuit Protection & Distribution,SurgeProtector,,1,SUP-VN,10,100,2024-02-05,,,Active,2
+MainSwitch_3P_40A_1PK,Circuit Protection & Distribution,MainSwitch,,1,SUP-VN,10,100,,,,Active,4
+MainSwitch_3P_63A_1PK,Circuit Protection & Distribution,MainSwitch,,1,SUP-VN,10,100,,,,Active,2
+MainSwitch_3P_80A_1PK,Circuit Protection & Distribution,MainSwitch,,1,SUP-VN,10,100,,,,Active,5
+Busbar_Comb_1P+N_12Module_1PK,Circuit Protection & Distribution,Busbar,,1,SUP-VN,25,250,,,,Active,2
+Busbar_Comb_1P+N_18Module_1PK,Circuit Protection & Distribution,Busbar,,1,SUP-VN,25,250,,,,Active,2
+Busbar_Comb_3P+N_12Module_1PK,Circuit Protection & Distribution,Busbar,,1,SUP-VN,25,250,,,,Active,3
+Busbar_Comb_3P+N_18Module_1PK,Circuit Protection & Distribution,Busbar,,1,SUP-VN,25,250,,,,Active,4
+TimerSwitch_DIN_Digital_1PK,Circuit Protection & Distribution,TimerSwitch,,1,SUP-VN,10,100,,,,Active,2
+TimerSwitch_DIN_Analog_1PK,Circuit Protection & Distribution,TimerSwitch,,1,SUP-VN,10,100,,,,Active,2
+kWhMeter_DIN_1Phase_1PK,Circuit Protection & Distribution,kWhMeter,,1,SUP-VN,10,100,,,,Active,2
+kWhMeter_DIN_3Phase_1PK,Circuit Protection & Distribution,kWhMeter,,1,SUP-VN,10,100,,,,Active,2
+Contactor_DIN_2P_25A_1PK,Circuit Protection & Distribution,Contactor,,1,SUP-VN,10,100,,,,Active,5
+Contactor_DIN_2P_40A_1PK,Circuit Protection & Distribution,Contactor,,1,SUP-VN,10,100,,,,Active,2
+Contactor_DIN_4P_25A_1PK,Circuit Protection & Distribution,Contactor,,1,SUP-VN,10,100,,,,Active,4
+Contactor_DIN_4P_40A_1PK,Circuit Protection & Distribution,Contactor,,1,SUP-VN,10,100,,,,Active,4
+DINRail_35mm_1m_1PK,Circuit Protection & Distribution,DINRail,,1,SUP-CN,50,500,,,,Active,5
+DINRail_35mm_1m_10PK,Circuit Protection & Distribution,DINRail,,10,SUP-CN,50,500,,,,Active,4

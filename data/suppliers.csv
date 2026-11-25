@@ -1,0 +1,4 @@
+supplier_id,supplier_name,country,origin_port,transport_mode,planned_production_weeks,planned_transit_weeks,incoterm
+SUP-CN,Ningbo Brightway Electrical Co. (fictional),China,Ningbo,Sea freight to Port of Rotterdam,5,6,FOB
+SUP-VN,Hai Phong Switchgear JSC (fictional),Vietnam,Hai Phong,Sea freight to Port of Rotterdam,4,6,FOB
+SUP-MA,Tanger Cablerie SARL (fictional),Morocco,Tanger Med,Truck + ferry to Rotterdam,2,1,FCA
